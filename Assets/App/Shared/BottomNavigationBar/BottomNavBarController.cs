@@ -11,8 +11,7 @@ namespace App.Shared.BottomNavigationBar
         public Button communityPageIconButton;
         public Button mapPageIconButton;
         public Button myProfileIconButton;
-    
-        // Start is called before the first frame update
+        
         void Start()
         {
             homePageIconButton.onClick.AddListener(_onHomePageClick);
