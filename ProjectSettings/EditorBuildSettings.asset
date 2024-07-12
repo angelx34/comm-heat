@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/App/MyProfile/ProfilePage.unity
     guid: 33ef3e0e90cc14441a6540fd804e2d29
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 0da5edabbfff9bf42bae51ce7778fb7c, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 6a2619a16d4444ee9a41ca842c5df704, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 339c94640caca2f4fa1213e692e28981, type: 2}
