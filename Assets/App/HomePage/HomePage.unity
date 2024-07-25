@@ -2166,7 +2166,7 @@ MonoBehaviour:
       m_Calls: []
   m_Sprite: {fileID: 21300000, guid: 04a750f9e656c5b4191533ef77563298, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -2378,7 +2378,7 @@ MonoBehaviour:
       m_Calls: []
   m_Sprite: {fileID: 21300000, guid: 04a750f9e656c5b4191533ef77563298, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -2809,6 +2809,10 @@ PrefabInstance:
       propertyPath: m_Color.r
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3824474262112845902, guid: 0f4896ba5c28846439e562db07a387ec, type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3824474262997447674, guid: 0f4896ba5c28846439e562db07a387ec, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -2843,6 +2847,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3824474262997447675, guid: 0f4896ba5c28846439e562db07a387ec, type: 3}
       propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3824474262997447675, guid: 0f4896ba5c28846439e562db07a387ec, type: 3}
+      propertyPath: m_PreserveAspect
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3824474263196800456, guid: 0f4896ba5c28846439e562db07a387ec, type: 3}
@@ -2985,6 +2993,10 @@ PrefabInstance:
       propertyPath: m_Color.r
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3824474263339086158, guid: 0f4896ba5c28846439e562db07a387ec, type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3824474263780222960, guid: 0f4896ba5c28846439e562db07a387ec, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -2995,6 +3007,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3824474263780222960, guid: 0f4896ba5c28846439e562db07a387ec, type: 3}
       propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3824474263780222960, guid: 0f4896ba5c28846439e562db07a387ec, type: 3}
+      propertyPath: m_PreserveAspect
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3824474263780222967, guid: 0f4896ba5c28846439e562db07a387ec, type: 3}
