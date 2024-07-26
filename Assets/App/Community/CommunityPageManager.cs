@@ -24,14 +24,14 @@ public class CommunityPageManager : MonoBehaviour
         
         contactCards = new List<ContactCardModel>
         {
-            new ContactCardModel(true, "Jane Doe", 0.4, 90),
-            new ContactCardModel(false, "Nick Matthews", 0.4, 87),
             new ContactCardModel(true, "Jane Doe", 0.4, 87),
-            new ContactCardModel(true, "Jane Doe", 0.4, 87),
-            new ContactCardModel(false, "Jane Doe", 0.4, 90),
-            new ContactCardModel(true, "Jane Doe", 0.4, 50),
-            new ContactCardModel(true, "Jane Doe", 0.7, 90),
-            new ContactCardModel(false, "Jane Doe", 0.4, 87)
+            new ContactCardModel(false, "John Smith", 0.6, 77),
+            new ContactCardModel(false, "Mark Krasinski", 1.2, 79),
+            new ContactCardModel(true, "Mary Jane", 3.6, 72),
+            new ContactCardModel(true, "Linda Johnson", 6.5, 73),
+            new ContactCardModel(true, "Xavi Hernandez", 8.9, 98),
+            new ContactCardModel(true, "Hellen Kirby", 9.0, 74),
+            new ContactCardModel(false, "Maci Golden", 9.6, 78)
         };
        showAllCards();
     }
