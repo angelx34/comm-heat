@@ -10,8 +10,9 @@ public class CheckInToggleController : MonoBehaviour
 
     public Button checkInOptionButton;
 
-    private Color selectedColor = new Color(0, 176, 0, 255);
+    //public Color selectedColor = new Color(0, 15, 0, 80);
     private Color unselectedColor = new Color(12, 94, 7, 0);
+    private Color selectedColor = new Color(0.3f, 0.50f, 0.2f);
 
     //private Color selectedColor = Color.green;
     //private Color unselectedColor = Color.green;

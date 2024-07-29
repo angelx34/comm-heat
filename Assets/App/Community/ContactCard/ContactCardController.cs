@@ -33,10 +33,10 @@ public class ContactCardController : MonoBehaviour
     public void setTemp(int newTemp)
     {
         tempTextRef.SetText(newTemp.ToString());
-        if (newTemp >= 90)
+        if (newTemp >= 80)
         {
             TempHouseIconRef.sprite = redHouse;
-        } else if (newTemp >= 80)
+        } else if (newTemp >= 75)
         {
             TempHouseIconRef.sprite = yellowHouse;
         }
